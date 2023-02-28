@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-import { Sheet } from "./sheet";
+import { Sheet } from "./sheet/";
 
 import "./index.css";
 
